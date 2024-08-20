@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+portalead.espro.org.br	TRUE	/	FALSE	1999999999	MoodleSession	ifvtan4h27vnkka1mic0lc8131
+
